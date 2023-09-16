@@ -49,9 +49,9 @@ void SslServer::login_to_server(QString username, QString password){
 
 
 //void SslServer::set_keys(){
-//    private_key = "/home/admin/keys/grandegjoen_server_keys/blue_local.key";
-//    local_certificate = "/home/admin/keys/grandegjoen_server_keys/blue_local.pem";
-//    ca_certificates = "/home/admin/keys/grandegjoen_server_keys/red_ca.pem";
+//    private_key = ""; read from config file later. Fix later...
+//    local_certificate = "";
+//    ca_certificates = "";
 //}
 
 
